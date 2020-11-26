@@ -1,0 +1,29 @@
+PODS:
+  - iOSDFULibrary (4.9.0):
+    - ZIPFoundation (= 0.9.11)
+  - MTBeaconPlus (1.0.0):
+    - iOSDFULibrary
+    - ZIPFoundation
+  - SnapKit (5.0.1)
+  - ZIPFoundation (0.9.11)
+
+DEPENDENCIES:
+  - MTBeaconPlus
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - iOSDFULibrary
+    - MTBeaconPlus
+    - SnapKit
+    - ZIPFoundation
+
+SPEC CHECKSUMS:
+  iOSDFULibrary: 4dc9e1b6ef296c5fbcdff8abca77b54397f10777
+  MTBeaconPlus: ab441588e46d5a965117d139dcae736420b20eef
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  ZIPFoundation: b1f0de4eed33e74a676f76e12559ab6b75990197
+
+PODFILE CHECKSUM: acdf3c120950759cb16583608c1de5e4a87ce9ea
+
+COCOAPODS: 1.10.0

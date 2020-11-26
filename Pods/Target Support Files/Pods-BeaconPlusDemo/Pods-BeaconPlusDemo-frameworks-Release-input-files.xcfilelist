@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-BeaconPlusDemo/Pods-BeaconPlusDemo-frameworks.sh
+${PODS_ROOT}/MTBeaconPlus/MTBeaconPlus/Frameworks/MTBeaconPlus.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/ZIPFoundation/ZIPFoundation.framework
+${BUILT_PRODUCTS_DIR}/iOSDFULibrary/iOSDFULibrary.framework
